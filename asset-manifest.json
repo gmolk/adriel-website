@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/adrielmolk/adriel-website.git/static/css/main.073c9b0a.css",
+    "main.js": "/adrielmolk/adriel-website.git/static/js/main.ba7885df.js",
+    "index.html": "/adrielmolk/adriel-website.git/index.html",
+    "main.073c9b0a.css.map": "/adrielmolk/adriel-website.git/static/css/main.073c9b0a.css.map",
+    "main.ba7885df.js.map": "/adrielmolk/adriel-website.git/static/js/main.ba7885df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ba7885df.js"
+  ]
+}
