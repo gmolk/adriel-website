@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/adriel-website/static/css/main.073c9b0a.css",
-    "main.js": "/adriel-website/static/js/main.ba7885df.js",
+    "main.js": "/adriel-website/static/js/main.fc43bdab.js",
     "index.html": "/adriel-website/index.html",
     "main.073c9b0a.css.map": "/adriel-website/static/css/main.073c9b0a.css.map",
-    "main.ba7885df.js.map": "/adriel-website/static/js/main.ba7885df.js.map"
+    "main.fc43bdab.js.map": "/adriel-website/static/js/main.fc43bdab.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ba7885df.js"
+    "static/js/main.fc43bdab.js"
   ]
 }
