@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/adriel-website/static/css/main.812ac859.css",
-    "main.js": "/adriel-website/static/js/main.65d61f92.js",
-    "static/media/image.png": "/adriel-website/static/media/image.8bd32de9809a0f89f601.png",
+    "main.css": "/adriel-website/static/css/main.960d03d7.css",
+    "main.js": "/adriel-website/static/js/main.46315d47.js",
     "index.html": "/adriel-website/index.html",
-    "main.812ac859.css.map": "/adriel-website/static/css/main.812ac859.css.map",
-    "main.65d61f92.js.map": "/adriel-website/static/js/main.65d61f92.js.map"
+    "main.960d03d7.css.map": "/adriel-website/static/css/main.960d03d7.css.map",
+    "main.46315d47.js.map": "/adriel-website/static/js/main.46315d47.js.map"
   },
   "entrypoints": [
-    "static/css/main.812ac859.css",
-    "static/js/main.65d61f92.js"
+    "static/css/main.960d03d7.css",
+    "static/js/main.46315d47.js"
   ]
 }
