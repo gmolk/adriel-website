@@ -1,7 +1,7 @@
-export default function Header( { content, size } ) {
+export default function Header( { content, style } ) {
     return (
         <div>
-            <p style={{ fontSize: size }}>{content}</p>
+            <p style={style}>{content}</p>
         </div>
     );
 }

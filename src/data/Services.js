@@ -8,21 +8,21 @@ export const serviceData =
     "services": [
         {
             "title": "Yard Work",
-            "description": "",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod libero ac est tristique, id tincidunt tortor lacinia.",
             "image": {
                 "src": yardWorkImg
             }
         },
         {
             "title": "Personal Assistant",
-            "description": "",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod libero ac est tristique, id tincidunt tortor lacinia.",
             "image": {
                 "src": personalAssistantImg
             }
         },
         {
             "title": "Moving",
-            "description": "",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod libero ac est tristique, id tincidunt tortor lacinia.",
             "image": {
                 "src": movingImg
             }

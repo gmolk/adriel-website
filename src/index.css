@@ -1,23 +1,80 @@
 body {
-  background-color: hsl(137, 49%, 45%);
+    background-color: hsl(137, 49%, 45%);
+}
+
+.content {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
 }
 
 a {
-  font-size: 22px;
-  color: black;
-}
-
-
-
-.section {
-  background-color: hsl(137, 46%, 35%);
-  border-radius: 1rem;
-  padding: .5rem;
+    font-size: 22px;
+    color: black;
 }
 
 .icon {
     width: 1.5rem;
     height: 1.5rem;
+}
+
+.services {
+    text-align: center;
+}
+
+.services-header {
+    padding: 1rem;
+}
+
+.service-card {
+    background-color: hsl(137, 46%, 35%);
+    padding: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+    max-width: 50%;
+}
+
+.service-description {
+    margin: 0;
+    max-width: 25rem;
+}
+
+.service-content {
+    display: flex;
+    align-items: start;
+    justify-content: center;
+}
+
+.service-thumbnail {
+    max-width: 200px;
+    padding-left: 2rem;
+}
+
+.contact-section-header {
+    margin: 0;
+}
+
+.contact-section {
+    background-color: hsl(194, 76%, 49%);
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.nextdoor {
+    margin: 1rem;
+}
+
+.nextdoor img {
+    width: 30px;
+}
+
+.nextdoor p {
+    margin: 5px;
+}
+
+.spacer {
+    height: 5rem;
 }
 
 /*

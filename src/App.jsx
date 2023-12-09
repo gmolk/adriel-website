@@ -6,18 +6,15 @@ import mainPhoto from "./img/main.jpg"
 import Image from "./Image";
 
 function App() {
-  const imageStyle = {
-    width: "50%"
-  };
-
   return (
-    <>
-      <Header content={'Adriel Molk'} size={80}/> 
-      <Header content={'How can I help meet your needs?'} size={30}/>
-      <Image src={mainPhoto} imgStyle={imageStyle}/>
+    <div className='content'>
+      <Header content={'Adriel Molk'} style={{ fontSize: 80 }}/> 
+      <Header content={'How can I help meet your needs?'} style={{ fontSize: 30 }}/>
+      <Image src={mainPhoto} imgStyle={{ width: '400px' }}/>
       <ServicesSection />
       <ContactSection />
-    </>
+        <div className='spacer'></div>
+    </div>
   );
 }
 
