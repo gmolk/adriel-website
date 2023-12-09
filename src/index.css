@@ -4,18 +4,20 @@ body {
 
 a {
   font-size: 22px;
-  color: black
+  color: black;
 }
 
-a:hover {
-  font-size: 23px;
-  background-color: rgb(177, 177, 177);
-}
+
 
 .section {
   background-color: hsl(137, 46%, 35%);
   border-radius: 1rem;
   padding: .5rem;
+}
+
+.icon {
+    width: 1.5rem;
+    height: 1.5rem;
 }
 
 /*
