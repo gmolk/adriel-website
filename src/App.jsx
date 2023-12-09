@@ -11,6 +11,7 @@ function App() {
       <Header content={'Adriel Molk'} style={{ fontSize: 80 }}/> 
       <Header content={'How can I help meet your needs?'} style={{ fontSize: 30 }}/>
       <Image src={mainPhoto} imgStyle={{ width: '400px' }}/>
+        <p className='serving-text'>Serving Corvallis, Albany, Philomath & surrounding areas</p>
       <ServicesSection />
       <ContactSection />
         <div className='spacer'></div>

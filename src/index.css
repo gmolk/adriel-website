@@ -4,8 +4,6 @@ body {
 
 .content {
     text-align: center;
-    align-items: center;
-    justify-content: center;
 }
 
 a {
@@ -18,8 +16,12 @@ a {
     height: 1.5rem;
 }
 
+.serving-text {
+    font-style: italic;
+    font-size: 18px;
+}
+
 .services {
-    text-align: center;
 }
 
 .services-header {
@@ -56,6 +58,7 @@ a {
 }
 
 .contact-section {
+    width: 50%;
     background-color: hsl(194, 76%, 49%);
     padding: 1rem;
     border-radius: 1rem;
