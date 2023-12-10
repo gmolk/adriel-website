@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/adriel-website/static/css/main.960d03d7.css",
-    "main.js": "/adriel-website/static/js/main.46315d47.js",
-    "index.html": "/adriel-website/index.html",
-    "main.960d03d7.css.map": "/adriel-website/static/css/main.960d03d7.css.map",
-    "main.46315d47.js.map": "/adriel-website/static/js/main.46315d47.js.map"
+    "main.css": "/galenmolk/adriel-website.git/static/css/main.e450f3b6.css",
+    "main.js": "/galenmolk/adriel-website.git/static/js/main.6d81b9ff.js",
+    "static/media/hairart.jpg": "/galenmolk/adriel-website.git/static/media/hairart.68c9dc82b0fd286ee3ad.jpg",
+    "static/media/main.jpg": "/galenmolk/adriel-website.git/static/media/main.c22f697a8fd31405b85f.jpg",
+    "static/media/nextdoor-icon.png": "/galenmolk/adriel-website.git/static/media/nextdoor-icon.d72f89242122939edf6e.png",
+    "index.html": "/galenmolk/adriel-website.git/index.html",
+    "main.e450f3b6.css.map": "/galenmolk/adriel-website.git/static/css/main.e450f3b6.css.map",
+    "main.6d81b9ff.js.map": "/galenmolk/adriel-website.git/static/js/main.6d81b9ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.960d03d7.css",
-    "static/js/main.46315d47.js"
+    "static/css/main.e450f3b6.css",
+    "static/js/main.6d81b9ff.js"
   ]
 }
