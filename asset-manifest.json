@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/adriel-website/static/css/main.e450f3b6.css",
-    "main.js": "/adriel-website/static/js/main.b688009f.js",
+    "main.js": "/adriel-website/static/js/main.1db6387b.js",
     "static/media/hairart.jpg": "/adriel-website/static/media/hairart.68c9dc82b0fd286ee3ad.jpg",
     "static/media/main.jpg": "/adriel-website/static/media/main.c22f697a8fd31405b85f.jpg",
     "static/media/nextdoor-icon.png": "/adriel-website/static/media/nextdoor-icon.d72f89242122939edf6e.png",
     "index.html": "/adriel-website/index.html",
     "main.e450f3b6.css.map": "/adriel-website/static/css/main.e450f3b6.css.map",
-    "main.b688009f.js.map": "/adriel-website/static/js/main.b688009f.js.map"
+    "main.1db6387b.js.map": "/adriel-website/static/js/main.1db6387b.js.map"
   },
   "entrypoints": [
     "static/css/main.e450f3b6.css",
-    "static/js/main.b688009f.js"
+    "static/js/main.1db6387b.js"
   ]
 }
