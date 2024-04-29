@@ -33,6 +33,13 @@ export const serviceData =
             "image": {
                 "src": hairArtImg
             }
+        },
+        {
+            "title": "Construction",
+            "description": "Powerful",
+            "image": {
+                "src": hairArtImg
+            }
         }
     ]
 }
