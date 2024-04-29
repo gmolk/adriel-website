@@ -11,8 +11,11 @@ export default function ServicesSection() {
                         <h3>{service.title}</h3>
                         <div className='service-card-content'>
                             <p className='service-description'>{service.description}</p>
+                            {service.image?.src !== undefined ?
                             <img src={service.image.src} alt={`${service.title} thumbnail`}
-                                 className='service-thumbnail'></img>
+                            className='service-thumbnail'></img> :
+                            <></> }
+                            
                         </div>
                     </div>
                 ))}

@@ -40,6 +40,10 @@ export const serviceData =
             "image": {
                 "src": hairArtImg
             }
+        },
+        {
+            "title": "new skill",
+            "description": "new skill to describe"
         }
     ]
 }
