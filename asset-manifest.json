@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gmolk/adriel-website.git/static/css/main.e450f3b6.css",
-    "main.js": "/gmolk/adriel-website.git/static/js/main.8b59441b.js",
-    "static/media/hairart.jpg": "/gmolk/adriel-website.git/static/media/hairart.68c9dc82b0fd286ee3ad.jpg",
-    "static/media/main.jpg": "/gmolk/adriel-website.git/static/media/main.c22f697a8fd31405b85f.jpg",
-    "static/media/nextdoor-icon.png": "/gmolk/adriel-website.git/static/media/nextdoor-icon.d72f89242122939edf6e.png",
-    "index.html": "/gmolk/adriel-website.git/index.html",
-    "main.e450f3b6.css.map": "/gmolk/adriel-website.git/static/css/main.e450f3b6.css.map",
-    "main.8b59441b.js.map": "/gmolk/adriel-website.git/static/js/main.8b59441b.js.map"
+    "main.css": "/adriel-website/static/css/main.e450f3b6.css",
+    "main.js": "/adriel-website/static/js/main.b688009f.js",
+    "static/media/hairart.jpg": "/adriel-website/static/media/hairart.68c9dc82b0fd286ee3ad.jpg",
+    "static/media/main.jpg": "/adriel-website/static/media/main.c22f697a8fd31405b85f.jpg",
+    "static/media/nextdoor-icon.png": "/adriel-website/static/media/nextdoor-icon.d72f89242122939edf6e.png",
+    "index.html": "/adriel-website/index.html",
+    "main.e450f3b6.css.map": "/adriel-website/static/css/main.e450f3b6.css.map",
+    "main.b688009f.js.map": "/adriel-website/static/js/main.b688009f.js.map"
   },
   "entrypoints": [
     "static/css/main.e450f3b6.css",
-    "static/js/main.8b59441b.js"
+    "static/js/main.b688009f.js"
   ]
 }
