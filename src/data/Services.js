@@ -29,7 +29,7 @@ export const serviceData =
         },
         {
             "title": "Hair Art",
-            "description": "I thoroughly enjoy doing hair art: hair braiding with a bunch of different techniques, sewing ribbons into braids, adding fresh & dried flowers and more diverse stylistic influences! I'll be happy to share pictures of my hair art projects if you're interested.",
+            "description": "I really enjoy doing hair art: hair braiding with a bunch of different techniques, sewing ribbons into braids, adding fresh & dried flowers and more diverse stylistic influences! I'll be happy to share pictures of my hair art projects if you're interested.",
             "image": {
                 "src": hairArtImg
             }
